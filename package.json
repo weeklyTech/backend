@@ -4,7 +4,8 @@
   "description": "",
   "main": "tasty.js",
   "scripts": {
-    "fetch:tasty": "babel-node tasty.js"
+    "fetch:tasty": "babel-node tasty.js",
+    "fetch:hairstyle": "babel-node hairstyle.js"
   },
   "author": "",
   "license": "ISC",
