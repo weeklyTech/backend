@@ -9,7 +9,7 @@ const categories = [
   { name: "mediumstyles", playlists: ['PL_SCossQygjtI_ve7IhdAG255oLYYB7L_'] },
   { name: "hardstyles", playlists: ['PL_SCossQygjsPNsIbDvkrfphSYoDXyJN9'] },
   { name: "curlyhair", playlists: ['PL_SCossQygjsZ66U0qxm-YdvE64SYXDfd'] },
-  { name: "long hair", playlists: ['PLcIo4FrJoTMeSg_E5PSE_DBVyrcuJ_n3f'] },
+  { name: "longhair", playlists: ['PLcIo4FrJoTMeSg_E5PSE_DBVyrcuJ_n3f'] },
   { name: "fiveminutes", playlists: ['PL_SCossQygjvaqKGgHuIlOEtFUrWOoaVn'] },
   { name: "school", playlists: ['PL_SCossQygjvP7-rewyz9mZ_fGyDODyT-'] },
   { name: "sidebraids", playlists: ['PL_SCossQygjt809pWMmDI4f8Yylqqw7FD'] },
